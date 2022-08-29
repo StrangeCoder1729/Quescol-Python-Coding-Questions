@@ -1,0 +1,1 @@
+# Q7). Write a program in Python to find top two maximum number in array?
